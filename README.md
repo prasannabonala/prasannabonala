@@ -6,17 +6,19 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-<!---
-prasannabonala/prasannabonala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 📊 My GitHub Stats
 
-| Metric | Rank / Status |
+| Metric | Status / Rank |
 | :--- | :--- |
 | **Global Profile Rank** | ![Rank](https://shields.io) |
-| **Total Contributions** | ![Contributions](https://shields.io) |
+| **Total Contributions** | ![Commits](https://shields.io) |
 | **Account Standing** | ![Status](https://shields.io) |
 
 ## 🚀 Top Languages
 ![Top Langs](https://shields.io)
+
+
+<!---
+prasannabonala/prasannabonala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
