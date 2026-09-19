@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 📊 My GitHub Stats
-[![My Stats](https://vercel.app)](https://github.com)
+[![My Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Top Languages
-[![Top Langs](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
