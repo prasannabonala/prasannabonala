@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannabonala&show_icons=true)
 
 <!---
 prasannabonala/prasannabonala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
